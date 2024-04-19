@@ -28,7 +28,7 @@ class MainApp extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         home: PageStorage(
           bucket: bucket,
-          child: const MainScreen(),
+          child: MainScreen(),
         ),
       ),
     );

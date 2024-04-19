@@ -1,3 +1,3 @@
 class AppAssets {
-  static String logotext = 'assets/logotext.png';
+  static String textLogo = 'assets/textLogo.png';
 }
